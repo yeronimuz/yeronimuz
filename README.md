@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeronimuz
 - 👀 I’m interested in technical stuff, sports and what drives people
 - 🌱 I’m currently learning Angular and wheelies on my mtb
-- 💞️ I’m looking to collaborate on DIY sensor systems
+- 💞️ I’m building a DIY sensor system
 - 📫 How to reach me: yeronimuz@gmail.com
 
 <!---
